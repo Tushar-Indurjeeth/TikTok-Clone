@@ -19,7 +19,7 @@ app.use((req, res, next) => {
 });
 
 // db config
-const dbUrl = 'mongodb+srv://admin:DGeVwQCS8KKsyry2@cluster0.kbv2w.mongodb.net/tiktokClone?retryWrites=true&w=majority';
+const dbUrl = '';
 
 mongoose.connect(dbUrl, {
     useNewUrlParser: true,
