@@ -19,14 +19,17 @@ A TikTok Clone built using the [MERN Stack](https://www.mongodb.com/mern-stack).
 
 ### Back-end
 - [Node.js](https://nodejs.org/en/)
-- [express.js]
-- [mongooseJs]
-- [axios]
-- [react-ticker]
+- [express.js](https://expressjs.com/)
+- [mongooseJs](https://mongoosejs.com/)
+- [axios](https://www.npmjs.com/package/axios)
+- [react-ticker](https://www.npmjs.com/package/react-ticker)
 
 ### Database
-- [MongoDB]
+- [MongoDB](https://www.mongodb.com/)
 
 ### Platforms
-- Back-end hosted through [Heroku].
-- Front-end hosted through [Firebase].
+- Back-end hosted through [Heroku](https://www.heroku.com/).
+- Front-end hosted through [Firebase](https://firebase.google.com/).
+
+## License
+Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/TikTok-Clone/blob/master/LICENSE)
