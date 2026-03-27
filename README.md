@@ -1,9 +1,6 @@
 # TikTok-Clone
 A TikTok Clone built using the [MERN Stack](https://www.mongodb.com/mern-stack).
 
-## Live Demo
-[https://tiktok-clone-48155.web.app/](https://tiktok-clone-48155.web.app/)
-
 ## How it works
 - The data is stored on mongoDB's cloud database [mongoDB Atlas](https://www.mongodb.com/cloud/atlas).
 - When you open the web app the data is pulled through from the database.
